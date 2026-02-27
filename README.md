@@ -15,3 +15,4 @@ Este projeto faz parte da minha jornada inicial de estudos.
 - Vetores e matrizes
 - Métodos e funções
 - Orientação a Objetos básica
+Commit Verified
